@@ -6,7 +6,7 @@ This project also integrates Explainable AI (XAI) techniques to improve interpre
 
 ---
 
-## 🚀 Features
+## Features
 
 - Hybrid CNN + Transformer architecture
 - Breast cancer image classification
@@ -21,7 +21,7 @@ This project also integrates Explainable AI (XAI) techniques to improve interpre
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 The proposed framework combines:
 
